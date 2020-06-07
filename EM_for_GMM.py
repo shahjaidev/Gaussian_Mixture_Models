@@ -204,40 +204,6 @@ def run_EM(data, num_clusters, mean_li, cov_mat, iters):
   return L, pi_vect, updated_means, all_cov_mat_li
 
 
-
-
-
-
-
-
-
-
-
-
-          
-
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
-      
-
-
-
   
     #print(pi_vect)
 
